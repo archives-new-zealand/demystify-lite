@@ -1,5 +1,7 @@
 # demystify lite
 
+https://archives-new-zealand.github.io/demystify-lite/
+
 Demystify-lite is a WASM-based implementation of [demystify][demystify-1].
 
 It is powered by [pyscript][pyscript-1] and Siegfried's recent WASM
